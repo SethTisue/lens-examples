@@ -5,7 +5,7 @@ Example code for my Scalathon 2012 intro talk on lenses in Scala using [Shapeles
 ```text
 % git clone https://github.com/SethTisue/lens-examples
 % cd lens-examples
-% sbt
+% ./sbt
 > test
 ...
 > console
