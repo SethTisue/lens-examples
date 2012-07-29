@@ -4,4 +4,4 @@ libraryDependencies +=
   "com.chuusai" %% "shapeless" % "1.2.2"
 
 libraryDependencies +=
-  "org.scalatest" %% "scalatest" % "1.9" % "test"
+  "org.scalatest" %% "scalatest" % "1.8" % "test"
