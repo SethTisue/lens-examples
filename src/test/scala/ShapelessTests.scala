@@ -31,4 +31,17 @@ class ShapelessTests extends FunSuite {
     }
   }
 
+  test("increment") {
+    val expected =
+      Turtle(Point(2.0, 1.0),
+             Color(0,0,0),
+             0.0, false)
+    expect(expected) {
+      val t0 = increment(defaultTurtle, TurtleX)
+      val t1 = increment(t0, TurtleY)
+      val t2 = increment(t1, TurtleX)
+      t2
+    }
+  }
+
 }

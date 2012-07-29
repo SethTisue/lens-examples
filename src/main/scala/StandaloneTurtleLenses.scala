@@ -35,4 +35,7 @@ object StandaloneTurtleLenses {
   def right(t: Turtle, delta: Double) =
     modify(TurtleHeading, t)(_ + delta)
 
+  def increment(t: Turtle, lens: Lens[Turtle, Double]) =
+    modify(lens, t)(_ + 1)
+
 }
