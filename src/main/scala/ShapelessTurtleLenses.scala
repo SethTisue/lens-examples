@@ -1,4 +1,4 @@
-object TurtleLenses2 {
+object ShapelessTurtleLenses {
 
   import Turtles._
 

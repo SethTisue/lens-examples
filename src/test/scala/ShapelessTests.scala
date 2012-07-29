@@ -1,6 +1,6 @@
 import org.scalatest.FunSuite
 import Turtles._
-import TurtleLenses2._
+import ShapelessTurtleLenses._
 
 class ShapelessTests extends FunSuite {
 

@@ -1,4 +1,4 @@
-object TurtleLenses1 {
+object StandaloneTurtleLenses {
 
   import Turtles._
   import Lenses._
