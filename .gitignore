@@ -1,2 +1,4 @@
 target/
 /.lib/
+/.ensime
+/.ensime_lucene/
