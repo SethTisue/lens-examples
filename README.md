@@ -1,4 +1,6 @@
-Example code for my Scalathon 2012 intro talk on lenses in Scala using [Shapeless](https://github.com/milessabin/shapeless/).
+Example code for myintro talk on lenses in Scala using [Shapeless](https://github.com/milessabin/shapeless/).
+
+talk given July 2012 at Scalathon in Philadelphia, November 2012 for Boston Scala Enthusiasts
 
 ## How to run
 
@@ -14,11 +16,13 @@ Example code for my Scalathon 2012 intro talk on lenses in Scala using [Shapeles
 
 ## Slides
 
-[Google docs link](https://docs.google.com/presentation/d/1jpo-glo9DU5SA57gBslLm2wFR-8kQJtEnoDT-WSsYgY/edit)
+November 2012 version: [Google docs link](https://docs.google.com/presentation/d/17IizOgnxMA9MbuiQtxAjL0v5GZdhPMUm3XO65EaTCWQ/edit)
 
 ## Video
 
-I don’t think the talk was recorded, but I plan to deliver it again in Boston and New York and record it then.
+Philadelphia, July: talk not recorded
+
+Boston, November: talk recorded, link hopefully coming soon?
 
 ## License
 
