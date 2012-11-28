@@ -16,13 +16,11 @@ talk given July 2012 at Scalathon in Philadelphia, November 2012 for Boston Scal
 
 ## Slides
 
-November 2012 version: [Google docs link](https://docs.google.com/presentation/d/17IizOgnxMA9MbuiQtxAjL0v5GZdhPMUm3XO65EaTCWQ/edit)
+[Google docs link](https://docs.google.com/presentation/d/17IizOgnxMA9MbuiQtxAjL0v5GZdhPMUm3XO65EaTCWQ/edit) (November 2012)
 
 ## Video
 
-Philadelphia, July: talk not recorded
-
-Boston, November: talk recorded, link hopefully coming soon?
+[on YouTube](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012)
 
 ## License
 
