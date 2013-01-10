@@ -1,6 +1,9 @@
 Example code for my intro talk on lenses in Scala using [Shapeless](https://github.com/milessabin/shapeless/).
 
-talk given July 2012 at Scalathon in Philadelphia, November 2012 for Boston Scala Enthusiasts
+talk given
+ * July 2012 at Scalathon in Philadelphia
+ * November 2012 for Boston Scala Enthusiasts
+ * soon: January 23, 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
 
 ## How to run
 
