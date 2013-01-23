@@ -7,11 +7,11 @@ object ShapelessTurtleLenses {
   import Nat._
 
   implicit val pointIso =
-    HListIso(Point.apply _, Point.unapply _)
+    Iso.hlist(Point.apply _, Point.unapply _)
   implicit val colorIso =
-    HListIso(Color.apply _, Color.unapply _)
+    Iso.hlist(Color.apply _, Color.unapply _)
   implicit val turtleIso =
-    HListIso(Turtle.apply _, Turtle.unapply _)
+    Iso.hlist(Turtle.apply _, Turtle.unapply _)
 
   val TurtleX = Lens[Turtle] >> _0 >> _0
   val TurtleY = Lens[Turtle] >> _0 >> _1
