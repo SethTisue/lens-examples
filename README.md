@@ -3,7 +3,7 @@ Example code for my intro talk on lenses in Scala using [Shapeless](https://gith
 talk given
  * July 2012 at Scalathon in Philadelphia
  * November 2012 for Boston Scala Enthusiasts ([details](http://www.meetup.com/boston-scala/events/90994702/))
- * soon: January 23, 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
+ * January 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
 
 ## How to run
 
