@@ -1,4 +1,4 @@
-scalaVersion := "2.10.0"
+scalaVersion := "2.10.2"
 
 scalacOptions in ThisBuild ++=
   Seq("-feature", "-deprecation", "-Xlint")
