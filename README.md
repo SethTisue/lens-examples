@@ -4,6 +4,7 @@ talk given
  * July 2012 at Scalathon in Philadelphia
  * November 2012 for Boston Scala Enthusiasts ([details](http://www.meetup.com/boston-scala/events/90994702/))
  * January 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
+ * June 2013 at Scala Days ([details](http://scaladays.org/#/june-11/room2/16:30-17:15/Lenses%3A-Fields-as-Values))
 
 ## How to run
 
