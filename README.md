@@ -1,4 +1,4 @@
-Example code for my intro talk on lenses in Scala using [Shapeless](https://github.com/milessabin/shapeless/).
+Example code for my intro talk on lenses in Scala. Includes code for hand-rolled lenses as well as automatically generated ones using [Shapeless](https://github.com/milessabin/shapeless/).
 
 talk given
  * July 2012 at Scalathon in Philadelphia
@@ -20,11 +20,11 @@ talk given
 
 ## Slides
 
-[Google docs link](https://docs.google.com/presentation/d/17IizOgnxMA9MbuiQtxAjL0v5GZdhPMUm3XO65EaTCWQ/edit) (November 2012)
+[Google docs link](https://docs.google.com/presentation/d/17IizOgnxMA9MbuiQtxAjL0v5GZdhPMUm3XO65EaTCWQ/edit) (November 2012 version)
 
 ## Video
 
-[on YouTube](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012)
+[on YouTube](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
 
 ## License
 
