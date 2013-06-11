@@ -12,7 +12,7 @@ object RillitTurtleLenses {
   def right(t: Turtle, delta: Double) =
     Lenser[Turtle].heading.modify(t)(_ + delta)
 
-  def increment(t: Turtle, lens: Lens[Turtle, Double]) =
+  def increment[T](t: T, lens: Lens[T, Double]) =
     lens.modify(t)(_ + 1)
 
 }

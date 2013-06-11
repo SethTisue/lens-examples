@@ -23,7 +23,7 @@ object ShapelessTurtleLenses {
   def right(t: Turtle, delta: Double) =
     TurtleHeading.modify(t)(_ + delta)
 
-  def increment(t: Turtle, lens: Lens[Turtle, Double]) =
+  def increment[T](t: T, lens: Lens[T, Double]) =
     lens.modify(t)(_ + 1)
 
 }
