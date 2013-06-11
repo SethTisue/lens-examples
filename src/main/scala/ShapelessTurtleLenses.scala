@@ -1,10 +1,7 @@
 object ShapelessTurtleLenses {
 
   import Turtles._
-
-  import shapeless._
-  import Lens._
-  import Nat._
+  import shapeless._, Lens._, Nat._
 
   implicit val pointIso =
     Iso.hlist(Point.apply _, Point.unapply _)

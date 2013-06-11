@@ -1,7 +1,6 @@
 object StandaloneTurtleLenses {
 
-  import Turtles._
-  import Lenses._
+  import Turtles._, Lenses._
 
   val TurtlePosition =
     Lens[Turtle, Point](
