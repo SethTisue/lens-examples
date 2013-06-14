@@ -1,4 +1,4 @@
-Example code for “Lenses: Fields as Values”, my intro talk on functional lenses in Scala. Includes code for hand-rolled lenses as well as automatically generated ones using [Shapeless](https://github.com/milessabin/shapeless/).
+Example code for “Lenses: Fields as Values”, my intro talk on functional lenses in Scala. Includes code for hand-rolled lenses as well as automatically generated ones using [Shapeless](https://github.com/milessabin/shapeless/) and [Rillit](https://github.com/travisbrown/rillit).
 
 talk given June 2013 at Scala Days ([details](http://scaladays.org/#/june-11/room2/16:30-17:15/Lenses%3A-Fields-as-Values))
 
