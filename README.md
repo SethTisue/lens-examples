@@ -28,6 +28,8 @@ previous versions given:
 
 [on YouTube](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
 
+coming soon: video of the Scala Days version
+
 ## License
 
 ![public domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)
