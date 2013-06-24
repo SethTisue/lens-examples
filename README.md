@@ -8,6 +8,8 @@ previous versions given:
  * November 2012 for Boston Scala Enthusiasts ([details](http://www.meetup.com/boston-scala/events/90994702/))
  * January 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
 
+(unlike previous versions, the June 2013 version includes coverage of the lens generator Rillit)
+
 ## How to run
 
 ```text
@@ -26,9 +28,9 @@ previous versions given:
 
 ## Video
 
-[on YouTube](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
+[November 2012 version](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
 
-coming soon: video of the Scala Days version
+[June 2013 version](http://www.parleys.com/play/51c387cae4b0ed8770356869) (June 2013 version; 45 minutes; audio and slides only, no video of me)
 
 ## License
 
