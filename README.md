@@ -1,14 +1,13 @@
 Example code for “Lenses: Fields as Values”, my intro talk on functional lenses in Scala. Includes code for hand-rolled lenses as well as automatically generated ones using [Shapeless](https://github.com/milessabin/shapeless/) and [Rillit](https://github.com/travisbrown/rillit).
 
-talk given June 2013 at Scala Days ([details](http://scaladays.org/#/june-11/room2/16:30-17:15/Lenses%3A-Fields-as-Values))
+When & where I've given the talk:
 
-previous versions given:
-
- * July 2012 at Scalathon in Philadelphia
- * November 2012 for Boston Scala Enthusiasts ([details](http://www.meetup.com/boston-scala/events/90994702/))
+ * June 2013 at Scala Days ([details](http://scaladays.org/#/june-11/room2/16:30-17:15/Lenses%3A-Fields-as-Values))
  * January 2013 for Chicago-Area Scala Enthusiasts ([details](http://www.meetup.com/chicagoscala/events/95809062/))
+ * November 2012 for Boston Scala Enthusiasts ([details](http://www.meetup.com/boston-scala/events/90994702/))
+ * July 2012 at Scalathon in Philadelphia
 
-(unlike previous versions, the June 2013 version includes coverage of the lens generator Rillit)
+Unlike earlier versions, the June 2013 version includes coverage of the lens generator Rillit.
 
 ## How to run
 
@@ -28,9 +27,9 @@ previous versions given:
 
 ## Video
 
-[November 2012 version](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
-
 [June 2013 version](http://www.parleys.com/play/51c387cae4b0ed8770356869) (June 2013 version; 45 minutes; audio and slides only, no video of me)
+
+[November 2012 version](https://www.youtube.com/watch?v=BiHH3LzKV04) (November 2012 version; 65 minutes)
 
 ## License
 
