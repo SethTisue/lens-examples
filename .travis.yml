@@ -1,0 +1,5 @@
+language: scala
+install:
+  - sbt update
+scala:
+  - 2.10.2
