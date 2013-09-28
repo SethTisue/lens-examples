@@ -10,8 +10,8 @@ libraryDependencies +=
   "org.scalatest" %% "scalatest" % "1.9.1" % "test"
 
 // rillit uses macros, so it needs this
-libraryDependencies <+= (scalaVersion)(
-  "org.scala-lang" % "scala-reflect" % _)
+libraryDependencies +=
+  "org.scala-lang" % "scala-reflect" % scalaVersion.value
 
 libraryDependencies +=
   "fi.akisaarinen" %% "rillit" % "0.1.1-SNAPSHOT" from
