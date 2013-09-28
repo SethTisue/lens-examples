@@ -9,7 +9,8 @@ libraryDependencies +=
 libraryDependencies +=
   "org.scalatest" %% "scalatest" % "1.9.1" % "test"
 
-// rillit uses macros, so it needs this
+// shouldn't be necessary just because rillit uses macros, but currently
+// is needed anyway. hopefully not in a future rillit
 libraryDependencies +=
   "org.scala-lang" % "scala-reflect" % scalaVersion.value
 
