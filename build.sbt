@@ -7,7 +7,7 @@ libraryDependencies +=
   "com.chuusai" %% "shapeless" % "1.2.4"
 
 libraryDependencies +=
-  "org.scalatest" %% "scalatest" % "1.9.1" % "test"
+  "org.scalatest" %% "scalatest" % "1.9.2" % "test"
 
 // shouldn't be necessary just because rillit uses macros, but currently
 // is needed anyway. hopefully not in a future rillit
