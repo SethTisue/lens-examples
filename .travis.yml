@@ -2,4 +2,4 @@ language: scala
 install:
   - sbt update
 scala:
-  - 2.10.4-RC2
+  - 2.10.4-RC3
