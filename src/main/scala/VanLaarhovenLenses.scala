@@ -6,8 +6,8 @@
 // but as a single polymorphic function.
 //
 // Although it was a Scala conference, all the code in the talk was in Haskell.
-// Here is my attempt to port it to Scala.  (Peeking at the Scalaz source code
-// a few times helped a lot.)
+// Here is my attempt to port it to Scala, without any external dependencies.
+// (Peeking at the Scalaz source code a few times helped a lot.)
 //
 // In this file I follow Peyton-Jones in my choice of names for type parameters.
 // ("S" is some structure, "A" is the type of some location in that structure.)
