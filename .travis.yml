@@ -1,3 +1,4 @@
+jdk: oraclejdk8
 language: scala
 install:
   - sbt update
