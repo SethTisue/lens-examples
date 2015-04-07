@@ -6,7 +6,7 @@ Example code for “Lenses: Fields as Values”, my intro talk on functional len
 
 Yes and no.
 
-Yes because the talk is still a good introduction to what lenses are, and I wouldn't change anything about the standalone lens code.
+Yes because the talk is still a good introduction to what lenses are. I wouldn't change anything about the standalone lens code.
 
 No because the details about third party libraries are now obsolete. Shapeless has changed a lot, Rillit seems abandoned, and lots of competition has sprung up such as [Quicklens](https://github.com/adamw/quicklens).
 
