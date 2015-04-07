@@ -4,9 +4,11 @@ Example code for “Lenses: Fields as Values”, my intro talk on functional len
 
 ## It's 2015 now. Is this still current?
 
-No.
+Yes and no.
 
-I think the talk is still a good introduction to lenses, and I wouldn't change anything about the standalone lens code, but the library details are now obsolete. Shapeless has changed a lot, Rillit seems abandoned, and lots of competition has sprung up such as [Quicklens](https://github.com/adamw/quicklens).
+Yes because the talk is still a good introduction to what lenses are, and I wouldn't change anything about the standalone lens code.
+
+No because the details about third party libraries are now obsolete. Shapeless has changed a lot, Rillit seems abandoned, and lots of competition has sprung up such as [Quicklens](https://github.com/adamw/quicklens).
 
 ## When & where was the talk given?
 
