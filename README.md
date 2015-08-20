@@ -8,7 +8,7 @@ Yes and no.
 
 Yes because the talk is still a good introduction to what lenses are. I wouldn't change anything about the standalone lens code.
 
-No because the details about third party libraries are now obsolete. Shapeless has changed a lot, Rillit seems abandoned, and lots of competition has sprung up such as [Monocle](https://github.com/julien-truffaut/Monocle), [Quicklens](https://github.com/adamw/quicklens), and [Sauron](https://github.com/pathikrit/sauron).
+No because the details about third party libraries are now obsolete. Shapeless has changed a lot, Rillit seems abandoned, and lots of competition has sprung up such as the actively maintained [Monocle](https://github.com/julien-truffaut/Monocle) and [Quicklens](https://github.com/adamw/quicklens). (There's also [Sauron](https://github.com/pathikrit/sauron), which at 50 lines of source looks like a good learning tool.)
 
 ## When & where was the talk given?
 
